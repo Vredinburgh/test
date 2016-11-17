@@ -14,7 +14,7 @@
         for ($i = 1; $i <= $aantalWeken; $i++){
           print(($i * 7)." dagen, aantal weken is ".$i."<br>");
         }
-
+	print("LOL");
         /* Einde uitwerking */
         ?>
     </body>
